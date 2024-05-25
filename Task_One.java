@@ -1,7 +1,6 @@
 package InternshipTask;
 
 import java.util.Scanner;
-import java.lang.StringBuilder;
 
 public class Task_One {
 	public static void main(String[] args) {
